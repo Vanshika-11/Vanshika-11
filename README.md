@@ -28,13 +28,9 @@
 
 <br/>
 <br/>
-
-
 <!---<a href="https://github.com/Vanshika-11/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vanshika-11&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>  --->
 
-<br/>
-<br/>
-## Connect with me:
+## Find me around the web 🌐
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/vanshikasabhani11/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
