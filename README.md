@@ -1,8 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://developer.xilinx.com/content/dam/xilinx-developer/images/homepage-images/xilinx-dev-hp-bg-desktop.jpg" height="175px"/></a>
 
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vanshika</h1>
-<h4 align="center">I'm a self-motivated tech enthusiast.</h4>
-<b><h4 align="center">I’m currently exploring the world of Machine Learning and Deep learning.</h4></b>
+<h4 align="center">:computer:I'm a self-motivated tech enthusiast.:computer:</h4>
+<b><h4 align="center"> :small_red_triangle: I’m currently exploring the world of Machine Learning and Deep learning :small_red_triangle:</h4></b>
 <h4 align="center">🔷humble in change, bold in action    🔷willing to learn and adapt</h4>
 <h4 align="center">🔷always highly enthused about work   🔷 conscientious team player</h4>
 
