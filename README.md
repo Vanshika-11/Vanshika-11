@@ -10,7 +10,10 @@
 
 <h3 align="center"> :mailbox: Find me around the web </h3><h2 align="center">
 
-[![Twitter Badge](https://img.shields.io/badge/-@SabhaniVanshika-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SabhaniVanshika)](https://twitter.com/SabhaniVanshika) [![Linkedin Badge](https://img.shields.io/badge/-vanshikasabhani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshikasabhani11/) [![Instagram Badge](https://img.shields.io/badge/-@vanshika._.11-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vanshika._.11) [![Mail Badge](https://img.shields.io/badge/-VanshikaSabhani-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vanshika.sabhani11@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SabhaniVanshika)](https://twitter.com/SabhaniVanshika)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshikasabhani11/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vanshika._.11)
+    [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vanshika.sabhani11@gmail.com)
     </h2>
     
 <h4 align="center">
@@ -22,10 +25,26 @@
 </h4>
 
 
-## 🚀 Languages and Tools:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔥 My Tech Stack
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br />
+
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=appveyor)
+![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=appveyor)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-black?style=for-the-badge&logo=appveyor)
+![Computer Vision](https://img.shields.io/badge/-Computer_Vision-black?style=for-the-badge&logo=appveyor)
+![Numpy](https://img.shields.io/badge/-Numpy-black?style=for-the-badge&logo=appveyor)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=appveyor)
+![Open CV](https://img.shields.io/badge/-Open_CV-black?style=for-the-badge&logo=appveyor)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=appveyor)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=appveyor)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=appveyor)
+
+#### Currently Learning
+![Data Structures and Algorithms](https://img.shields.io/badge/-Data_Structures_and_Algorithms-black?style=for-the-badge&logo=appveyor)
+![Artificial Neural Network](https://img.shields.io/badge/-Artificial_Neural_Networks-black?style=for-the-badge&logo=appveyor)
+![Natural Language Processing](https://img.shields.io/badge/-Natural_Language_Processing-black?style=for-the-badge&logo=appveyor)
+![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement_Learning-black?style=for-the-badge&logo=appveyor)
 
 <br/>
 
