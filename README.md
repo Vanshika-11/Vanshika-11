@@ -38,13 +38,11 @@
 ![Open CV](https://img.shields.io/badge/-Open_CV-black?style=for-the-badge&logo=appveyor)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=appveyor)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=appveyor)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=appveyor)
+![Artificial Neural Network](https://img.shields.io/badge/-Artificial_Neural_Networks-black?style=for-the-badge&logo=appveyor)
 
 #### Currently Learning
 ![Data Structures and Algorithms](https://img.shields.io/badge/-Data_Structures_and_Algorithms-black?style=for-the-badge&logo=appveyor)
-![Artificial Neural Network](https://img.shields.io/badge/-Artificial_Neural_Networks-black?style=for-the-badge&logo=appveyor)
-![Natural Language Processing](https://img.shields.io/badge/-Natural_Language_Processing-black?style=for-the-badge&logo=appveyor)
-![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement_Learning-black?style=for-the-badge&logo=appveyor)
+
 
 <br/>
 
